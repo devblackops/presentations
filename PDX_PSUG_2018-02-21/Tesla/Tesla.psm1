@@ -19,5 +19,5 @@ class Tesla : Car {
 }
 
 function New-Tesla {
-    $t = [Tesla]::new()
+    [Tesla]::new()
 }

@@ -1,4 +1,12 @@
 
+# An abstract class is not a "thing" with PowerShell classes
+# You can mimic it... sort of
+
+# An abstract class can be useful if it makes to logical sense to 
+# instantiate an instance of the base class. Like an animal.
+
+# You can use an abstract class when there is a 'IS-A' relationship
+
 class Animal {
     Animal() {
         $type = $this.GetType()
