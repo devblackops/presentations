@@ -10,11 +10,14 @@ Import-Module ./Car
 Get-Module Car
 New-Car
 
+
+# Dragons: RequiresModules doesn't work to import classes
 # This doesn't
 Import-Module ./Tesla
 [car]::new()
 
 # Fix Car module
+# Fix Tesla module to not use RequiresModules
+
 Import-Module ./Tesla -Force
-
-
+New-Tesla

@@ -1,5 +1,8 @@
-# Try to use a class with "using module ..."
+#Scenario: Try to use a class with "using module ..."
 using module ./MyClass1
 [Foo]::new()
 
-Get-Module -Name MyClass1 | Format-list
+Get-Module MyClass1
+
+# Dragons beware
+# There are issues with "using module" we'll see later

@@ -3,12 +3,11 @@
 
 # Custom validator class
 class ValidatedName {
-    [ValidatePattern('^[a-z]')]
     [ValidateLength(3, 15)]
     [string]$Value
 
     ValidatedName([string]$String) {
-        $this.Value = $true
+        $this.Value = $String
     }
 }
 

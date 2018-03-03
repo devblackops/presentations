@@ -1,5 +1,5 @@
 
-# No 'private' properties, only 'hidden', but not very well
+#Dragon: no 'private' properties, only 'hidden', but not very well
 
 class Foo {
     [string]$Name = 'bar'

@@ -3,7 +3,8 @@
 $env:PSModulePath += ":$((pwd).path)"
 $VerbosePreference = 'Continue'
 
-# Here be dragons! Can't specify version!
+# Dragon: Can't specify version!
+# Get-Module Fruit -ListAvailable
 # using module Fruit
 
 # Latest version of Fruit module was installed
