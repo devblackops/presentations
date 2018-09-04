@@ -39,6 +39,10 @@
 
 ## Triggers
 
+- Command
+- Event
+- RegEx
+
 ### Command
 
 ```text
@@ -104,7 +108,7 @@ lgtm shipit!
 !add-groupuser minions brandolomite
 ```
 
-## Confirmation (Use the -Force) ...arrays
+## Confirmation (Use the -Force)...arrays
 
 ```
 !remove-something foo
