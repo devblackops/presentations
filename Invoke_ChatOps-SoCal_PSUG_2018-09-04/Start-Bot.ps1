@@ -46,6 +46,7 @@ switch ($Type) {
             )
         }
         $backend = New-PoshBotTeamsBackend -Configuration $config.BackendConfiguration
+        break
     }
 }
 
