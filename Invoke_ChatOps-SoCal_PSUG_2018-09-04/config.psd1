@@ -37,7 +37,7 @@
   ChannelRules = @(
     @{
       IncludeCommands = @('*')
-      Channel = 'SoCal PSUG'
+      Channel = 'socalpsug'
       ExcludedCommands = @('poshbot.giphy:*')
     }
     @{
