@@ -1,0 +1,6 @@
+
+Describe 'Spotify' {
+    Context 'Availability' {
+
+    }
+}

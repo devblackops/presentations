@@ -10,17 +10,26 @@ function Create-VM {
     )]
     [cmdletbinding()]
     param(
-        [string]$Name = (New-Guid).ToString().split('-')[4],
 
-        [ValidateSet('Linux', 'Windows')]
-        [string]$Type = 'Windows',
+        [string]$Environment = 'dev'
+        [string]$Size = 'xl'
+        # [string]$Name = (New-Guid).ToString().split('-')[4],
 
-        [ValidateRange(1, 16)]
-        [int]$vCPU = 1,
+        # [ValidateSet('Linux', 'Windows')]
+        # [string]$Type = 'Windows',
 
-        [ValidateRange(1, 128)]
-        [int]$RAM = 1
+        # [ValidateRange(1, 16)]
+        # [int]$vCPU = 1,
+
+        # [ValidateRange(1, 128)]
+        # [int]$RAM = 1
     )
+
+    if ($environment -eq 'dev') {
+        $location = 'westus'
+    } else {
+
+    }
 
     $r = [pscustomobject]@{
         Name      = $Name
