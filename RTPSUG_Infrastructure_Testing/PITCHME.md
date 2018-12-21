@@ -24,6 +24,7 @@
 
 ##### Evaluates one or more properties of interest in a piece of software or service.
 
+### <br>
 ##### These properties could be:
 
 @ul
@@ -32,7 +33,7 @@
 - Performs its functions within an acceptable time
 - It is sufficiently usable
 - Can be run it its intended environments
-- Achieves the general result its stakeholders desire
+- Achieves the result its stakeholders desire
 @ulend
 
 ---
@@ -75,9 +76,15 @@
 
 ---
 
+### Can we do this with PowerShell?
+
 ---
 
-### How can we do this with PowerShell?
+### Yes! That's why I'm up here!
+
+---
+
+### PowerShell Testing Tools
 
 @ul
 - Pester
@@ -86,6 +93,7 @@
 - PoshSpec
 - PSHealthZ
 - Watchmen
+- Others? (Let me know)
 @ulend
 
 ### @fa[star] Thank you! @fa[star]
