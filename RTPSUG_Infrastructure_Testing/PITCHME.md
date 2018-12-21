@@ -18,11 +18,12 @@
 
 ### What is Infrastructure Testing
 
-@css[fragment](- To validate our CURRENT state matches our EXPECTED state)
-@css[fragment](- To notify us when they don’t)
-@css[fragment](- To perform sanity checks before AND after changes)
-@css[fragment](- To provide guardrails for automation)
-
+@ul
+- To validate our **CURRENT** state matches our **EXPECTED** state
+- To notify us when they differ
+- To perform sanity checks before **AND** after changes
+- To provide guardrails for automation
+@ulend
 ---
 
 ### Why Test Infrastructure
