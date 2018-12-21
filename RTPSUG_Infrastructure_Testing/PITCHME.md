@@ -111,11 +111,7 @@
 <br><br>**Contact Info**
 
 @snap[south-west]
-
-@fa[blog] [devblackops.io](htts://devblackops.io)
-
-@fa[twitter] [@devblackops](https://twitter.com/devblackops)
-
+@fa[blog] [devblackops.io](https://devblackops.io)<br>
+@fa[twitter] [@devblackops](https://twitter.com/devblackops)<br>
 @fa[github] [github.com/devblackops](https://github.com/devblackops)
-
 @snapend
