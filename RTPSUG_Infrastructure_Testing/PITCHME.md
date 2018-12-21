@@ -71,9 +71,9 @@
 ### So Why Do We Test Again?
 
 @ul
-- So we can go [blue]**FAST**
-- So we can be [green]**SAFE**
-- So we can bail when things are [red]**UNSAFE**
+- So we can go @css[text-blue](**FAST**)
+- So we can be @css[text-green](**SAFE**)
+- So we can bail when things are @css[text-orange](**UNSAFE**)
 @ulend
 
 ---?color=#222222
@@ -108,7 +108,7 @@
 
 ### @fa[star] Thank you! @fa[star]
 
-**Contact Info**
+<br><br>**Contact Info**
 
 - Blog: [devblackops.io](htts://devblackops.io)
 - Twitter: [@devblackops](https://twitter.com/devblackops)
