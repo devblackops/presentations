@@ -73,7 +73,7 @@
 ---?color=#222222
 
 @snap[west span-50]
-@img[](RTPSUG_Infrastructure_Testing/assets/blug_green.jpg)
+@img[](RTPSUG_Infrastructure_Testing/assets/blue_green.jpg)
 @snapend
 
 @snap[east span-45]
