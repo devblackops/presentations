@@ -1,3 +1,9 @@
 theme : night
 layout : center
+theme-override : RTPSUG_Infrastructure_Testing/css/PITCHME.css
 transition : none
+highlight : monokai
+
+title : "RTPSUG - Infrastructure Testing with Pester"
+description : "High-utility markdown slide templates for GitPitch presentation authors."
+thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg

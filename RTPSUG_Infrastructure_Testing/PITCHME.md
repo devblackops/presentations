@@ -1,8 +1,6 @@
 ---?color=#222222
 
-### Testing...Testing...1...2...3...
-
-##### Using Pester for Infrastructure Validation
+### Infrastructure Testing with Pester
 
 - Brandon Olin
 - [devblackops.io](https://devblackops.io)
@@ -19,16 +17,31 @@
 ### What is Infrastructure Testing
 
 @ul
+- Does this port respond?
+- Is this service running?
+- Is the current state what I expect?
+@ulend
+
+---
+
+### Why Test Infrastructure
+
+@ul
 - To validate our **CURRENT** state matches our **EXPECTED** state
 - To notify us when they differ
 - To perform sanity checks before **AND** after changes
 - To provide guardrails for automation
 @ulend
+
 ---
 
-### Why Test Infrastructure
+### So Why Do We Test Again?
 
-![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
+@ul
+- So we can go [blue]**FAST**
+- So we can be [green]**SAFE**
+- So we can bail when things are [red]**UNSAFE**
+@ulend
 
 ---
 
