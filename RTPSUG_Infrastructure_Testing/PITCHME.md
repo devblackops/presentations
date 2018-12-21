@@ -10,13 +10,17 @@
 
 ### What is Software Testing?
 
-![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
-
+@snap[west]
 @ul
 - An investigation conducted to determine the quality of a software product or service under test
 - Provides an objective, independent view of software quality
 - Verifies that the software is fit for use
 @ulend
+@snapend
+
+@snap[east]
+![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
+@snapend
 
 ---
 
