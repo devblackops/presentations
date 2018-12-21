@@ -7,7 +7,8 @@
 - [@fa[twitter]@devblackops](https://twitter.com/devblackops)
 
 ---?color=#222222
-@snap[north]
+
+@snap[north-west]
 ### What is Software Testing?
 @snapend
 
