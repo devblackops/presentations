@@ -12,8 +12,9 @@
 
 ### What is Software Testing
 
-#@fa[question-circle]
+![](./assets/question_mark.png)
 
+---
 
 ### @fa[star] Thank you! @fa[star]
 
