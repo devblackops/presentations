@@ -77,9 +77,9 @@
 @snapend
 
 @snap[east span-45]
-
+@ul(false)
 - Blue/green deployments
-
+@elend
 @snapend
 
 ---?color=#222222
