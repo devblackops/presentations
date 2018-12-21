@@ -72,7 +72,7 @@
 
 ---?color=#222222
 
-### Blug/green deployments
+### @css[text-blue](Blue)/@css[text-green](green) deployments
 
 @img[](RTPSUG_Infrastructure_Testing/assets/blue_green.jpg)
 
