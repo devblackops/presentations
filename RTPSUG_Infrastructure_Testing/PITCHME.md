@@ -78,6 +78,18 @@
 
 ---?color=#222222
 
+### Validating server settings
+
+@img[](RTPSUG_Infrastructure_Testing/assets/map_room.jpg)
+
+---?color=#222222
+
+### Verify state before proceeding
+
+@img[](RTPSUG_Infrastructure_Testing/assets/bridge.jpg)
+
+---?color=#222222
+
 ### So Why Do We Test Again?
 
 @ul
