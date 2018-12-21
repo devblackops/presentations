@@ -16,6 +16,21 @@
 
 ---
 
+### What is Infrastructure Testing
+
+@css[fragment](- To validate our CURRENT state matches our EXPECTED state)
+@css[fragment](- To notify us when they don’t)
+@css[fragment](- To perform sanity checks before AND after changes)
+@css[fragment](- To provide guardrails for automation)
+
+---
+
+### Why Test Infrastructure
+
+![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
+
+---
+
 ### @fa[star] Thank you! @fa[star]
 
 **Contact Info**
