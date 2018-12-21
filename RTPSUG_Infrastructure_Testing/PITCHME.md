@@ -68,6 +68,22 @@
 
 ---?color=#222222
 
+### Examples
+
+---?color=#222222
+
+@snap[west span-50]
+@img[](RTPSUG_Infrastructure_Testing/assets/blug_green.jpg)
+@snapend
+
+@snap[east span-45]
+
+- Blue/green deployments
+
+@snapend
+
+---?color=#222222
+
 ### So Why Do We Test Again?
 
 @ul
