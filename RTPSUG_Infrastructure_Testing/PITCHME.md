@@ -12,7 +12,7 @@
 ### What is Software Testing?
 @snapend
 
-@snap[west]
+@snap[west width50]
 @ul
 - An investigation conducted to determine the quality of a software product or service under test
 - Provides an objective, independent view of software quality
@@ -20,7 +20,7 @@
 @ulend
 @snapend
 
-@snap[east]
+@snap[east width50]
 ![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
 @snapend
 
@@ -76,6 +76,8 @@
 ---
 
 ### To put it another way...
+
+@quote[CI/CD pipelines allow you to go 200mph. Tests are your seat belts, airbags, anti-lock brakes, traction control, collision avoidance, and autonomous driving systems so you can go 200mph without killing yourself or others.](Me)
 
 > @fa[quote-left]CI/CD pipelines allow you to go 200mph. Tests are your seat belts, airbags, anti-lock brakes, traction control, collision avoidance, and autonomous driving systems so you can go 200mph without killing yourself or others.<br>
 - Me

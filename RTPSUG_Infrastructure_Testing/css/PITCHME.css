@@ -250,3 +250,11 @@
     opacity: 0.75 !important;
     font-size: 50% !important;
   }
+
+  .width-50 {
+    width: 50%;
+  }
+
+  .center {
+    text-align: center;
+  }
