@@ -8,7 +8,9 @@
 
 ---
 
+@snap[north-west]
 ### What is Software Testing?
+@snapend
 
 @snap[west]
 @ul
