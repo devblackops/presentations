@@ -8,7 +8,6 @@
 
 ---?color=#222222
 
-@snap[north-west]
 ### What is Software Testing?
 
 @snap[west span-30]
