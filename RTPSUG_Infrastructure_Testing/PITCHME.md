@@ -6,7 +6,7 @@
 - [devblackops.io](https://devblackops.io)
 - [@fa[twitter]@devblackops](https://twitter.com/devblackops)
 
----
+---?color=#222222
 
 @snap[north-west]
 ### What is Software Testing?
@@ -23,7 +23,7 @@
 @ulend
 @snapend
 
----
+---?color=#222222
 
 ### So... software testing...
 
@@ -44,7 +44,7 @@
 - Achieves the result its stakeholders desire
 @ulend
 
----
+---?color=#222222
 
 ### What is Infrastructure Testing?
 
@@ -65,7 +65,7 @@
 - To provide guardrails for automation
 @ulend
 
----
+---?color=#222222
 
 ### So Why Do We Test Again?
 
@@ -75,7 +75,7 @@
 - So we can bail when things are [red]**UNSAFE**
 @ulend
 
----
+---?color=#222222
 
 ### To put it another way...
 
@@ -84,15 +84,15 @@
 > @fa[quote-left]CI/CD pipelines allow you to go 200mph. Tests are your seat belts, airbags, anti-lock brakes, traction control, collision avoidance, and autonomous driving systems so you can go 200mph without killing yourself or others.<br>
 - Me
 
----
+---?color=#222222
 
 ### Can we do this with PowerShell?
 
----
+---?color=#222222
 
 ### Yes! That's why I'm up here!
 
----
+---?color=#222222
 
 ### PowerShell Testing Tools
 
@@ -105,6 +105,8 @@
 - Watchmen
 - Others? (Let me know)
 @ulend
+
+---?color=#222222
 
 ### @fa[star] Thank you! @fa[star]
 
