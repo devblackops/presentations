@@ -12,7 +12,7 @@
 
 ### What is Software Testing
 
-![](assets/question_mark.png)
+![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
 
 ---
 
