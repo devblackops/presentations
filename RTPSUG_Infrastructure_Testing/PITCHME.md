@@ -72,15 +72,9 @@
 
 ---?color=#222222
 
-@snap[west span-50]
-@img[](RTPSUG_Infrastructure_Testing/assets/blue_green.jpg)
-@snapend
+### Blug/green deployments
 
-@snap[east span-45]
-@ul(false)
-- Blue/green deployments
-@ulend
-@snapend
+@img[](RTPSUG_Infrastructure_Testing/assets/blue_green.jpg)
 
 ---?color=#222222
 
