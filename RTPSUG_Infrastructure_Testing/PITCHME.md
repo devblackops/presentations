@@ -8,13 +8,36 @@
 
 ---
 
-### What is Software Testing
+### What is Software Testing?
 
 ![](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
 
+@ul
+- An investigation conducted to determine the quality of a software product or service under test
+- Provides an objective, independent view of software quality
+- Verifies that the software is fit for use
+@ulend
+
 ---
 
-### What is Infrastructure Testing
+### So... software testing...
+
+##### Evaluates one or more properties of interest in a piece of software or service.
+
+##### These properties could be:
+
+@ul
+- Meets the requirements that guided its design and development
+- Responds correctly to all kinds of inputs
+- Performs its functions within an acceptable time
+- It is sufficiently usable
+- Can be run it its intended environments
+- Achieves the general result its stakeholders desire
+@ulend
+
+---
+
+### What is Infrastructure Testing?
 
 @ul
 - Does this port respond?
@@ -24,7 +47,7 @@
 
 ---
 
-### Why Test Infrastructure
+### Why Test Infrastructure?
 
 @ul
 - To validate our **CURRENT** state matches our **EXPECTED** state
@@ -51,6 +74,19 @@
 - Me
 
 ---
+
+---
+
+### How can we do this with PowerShell?
+
+@ul
+- Pester
+- Operation Validation Framework
+- Assert
+- PoshSpec
+- PSHealthZ
+- Watchmen
+@ulend
 
 ### @fa[star] Thank you! @fa[star]
 
