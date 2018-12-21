@@ -1,13 +1,18 @@
-
 ---?color=#222222
 
 ### Testing...Testing...1...2...3...
 
 ##### Using Pester for Infrastructure Validation
 
-##### Brandon Olin<br>[devblackops.io](https://devblackops.io)<br>[@fa[twitter]@devblackops](https://twitter.com/devblackops)<br>
+- Brandon Olin
+- [devblackops.io](https://devblackops.io)
+- [@fa[twitter]@devblackops](https://twitter.com/devblackops)
 
+---
 
+### What is Software Testing
+
+#@fa[question-circle]
 
 
 ### @fa[star] Thank you! @fa[star]
