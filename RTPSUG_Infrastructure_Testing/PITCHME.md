@@ -127,31 +127,17 @@ Validation of the operation of a system
 - Others? (Let me know)
 @ulend
 
+---?color=#222222&code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=pester&title=Pester
+
+@[1-3](Function to test)
+@[5-12]('Describe' block groups 'n' number of Context or It blocks)
+@[6-11]('Context' block groups 'n' number of It blocks)
+@[7-10]('It' block contains your assertion)
+@[9](Performs the assertion using 'Should')
+
 ---?color=#222222
 
-### Pester
-
-Pester is the ubiquitous test and mock framework for PowerShell
-
-@snap[west span45]
-```powershell
-function Get-AnswerToUniverse {
-    42
-}
-
-Describe '[Universe]' {
-    Context 'The answer to everything' {
-        It 'The answer is [42]]' {
-            $answer = Get-AnswerToUniverse
-            $answer | Should -Be 42
-        }
-    }
-}
-```
-@snapend
-@snap[east span 45]
 ![](RTPSUG_Infrastructure_Testing/assets/pester.png)
-@snapend
 
 ---?color=#222222
 
