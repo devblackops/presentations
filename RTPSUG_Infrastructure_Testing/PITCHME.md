@@ -28,15 +28,14 @@
 
 ### So software testing...
 
+Verifies one or more of the following:
+
 @ul
-- Evaluates one or more properties of interest in a piece of software or service
-### <br>
-##### These properties could be:
-- Meets the requirements that guided its design and development
+- Requirements that guided its design and development
 - Responds correctly to all kinds of inputs
 - Performs its functions within an acceptable time
-- It is sufficiently usable
-- Can be run it its intended environments
+- It is sufficiently usable (fit for purpose)
+- Can be run it its intended environment(s)
 - Achieves the result its stakeholders desire
 @ulend
 
@@ -44,10 +43,13 @@
 
 ### What is Infrastructure Testing?
 
+Validation of the operation of a system
+
 @ul
-- Does this port respond?
-- Is this service running?
+- Does port 443 respond?
+- Is service 'xyz' running?
 - Is the current state what I expect?
+- Are these infrastructure properties correct?
 @ulend
 
 ---?color=#222222
@@ -55,9 +57,9 @@
 ### Why Test Infrastructure?
 
 @ul
-- To validate our **CURRENT** state matches our **EXPECTED** state
+- To validate our @css[text-blue](**CURRENT**) state matches our @css[text-green](**EXPECTED**) state
 - To notify us when they differ
-- To perform sanity checks before **AND** after changes
+- To perform sanity checks before @css[text-orange](**AND**) after changes
 - To provide guardrails for automation
 @ulend
 
