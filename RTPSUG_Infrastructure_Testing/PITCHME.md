@@ -149,7 +149,7 @@ Describe '[Universe]' {
 }
 ```
 @snapend
-@snap[west span 45]
+@snap[east span 45]
 ![](RTPSUG_Infrastructure_Testing/assets/pester.png)
 @snapend
 
