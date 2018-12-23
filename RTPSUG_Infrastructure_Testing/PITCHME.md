@@ -26,17 +26,12 @@
 
 ---?color=#222222
 
-### So... software testing...
+### So software testing...
 
 @ul
 - Evaluates one or more properties of interest in a piece of software or service
-@ulend
-
 ### <br>
-
 ##### These properties could be:
-
-@ul
 - Meets the requirements that guided its design and development
 - Responds correctly to all kinds of inputs
 - Performs its functions within an acceptable time
@@ -84,7 +79,7 @@
 
 ---?color=#222222
 
-### Verify state before proceeding
+### Verifying state before proceeding
 
 @img[](RTPSUG_Infrastructure_Testing/assets/bridge.jpg)
 
@@ -110,11 +105,11 @@
 
 ---?color=#222222
 
-### Yes! That's why I'm up here!
+### Yes! That's why I'm talking about it!
 
 ---?color=#222222
 
-### PowerShell Testing Tools
+### Some PowerShell Testing Tools
 
 @ul
 - Pester
