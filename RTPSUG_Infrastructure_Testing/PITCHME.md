@@ -134,7 +134,7 @@ Validation of the operation of a system
 Pester is the ubiquitous test and mock framework for PowerShell
 
 @snap[west span45]
-?code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=powershell
+---?code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=powershell
 @snapend
 
 ---?color=#222222
