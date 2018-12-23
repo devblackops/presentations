@@ -2,9 +2,11 @@
 
 ### Infrastructure Testing with Pester
 
+@snap[south-west]
 - Brandon Olin
 - [devblackops.io](https://devblackops.io)
 - [@fa[twitter]@devblackops](https://twitter.com/devblackops)
+@snapend
 
 ---?color=#222222
 
