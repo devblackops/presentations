@@ -13,7 +13,7 @@
 ---?color=#222222
 
 @snap[north-west]
-### What is Software Testing?
+### What is software testing?
 @snapend
 
 @snap[west span-30]
@@ -21,7 +21,7 @@
 @snapend
 
 @snap[east span-65]
-@ul[split-screen-list text-07]
+@ul[split-screen-list text-09]
 - An investigation conducted to determine the quality of a software product or service under test
 - Provides an objective, independent view of software quality
 - Verifies that the software is fit for use
@@ -45,7 +45,7 @@ Verifies one or more of the following:
 
 ---?color=#222222
 
-### What is Infrastructure Testing?
+### What is infrastructure testing?
 
 Validation of the operation of a system
 
@@ -58,7 +58,7 @@ Validation of the operation of a system
 
 ---?color=#222222
 
-### Why Test Infrastructure?
+### Why test infrastructure?
 
 @ul
 - To validate our @css[text-blue](**CURRENT**) state matches our @css[text-green](**EXPECTED**) state
@@ -91,7 +91,7 @@ Validation of the operation of a system
 
 ---?color=#222222
 
-### So Why Do We Test Again?
+### So why do we test again?
 
 @ul
 - So we can go @css[text-blue](**FAST**)
@@ -111,11 +111,11 @@ Validation of the operation of a system
 
 ---?color=#222222
 
-### Yes! That's why I'm talking about it!
+### Yes! That's why I'm here!
 
 ---?color=#222222
 
-### Some PowerShell Testing Tools
+### Some PowerShell testing tools
 
 @ul
 - Pester
@@ -126,6 +126,22 @@ Validation of the operation of a system
 - Watchmen
 - Others? (Let me know)
 @ulend
+
+---?color=#222222
+
+### Pester
+
+Pester is the ubiquitous test and mock framework for PowerShell
+
+@snap[west span45]
+?code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=powershell
+@snapend
+
+---?color=#222222
+
+---?color=#222222
+
+---?color=#222222
 
 ---?color=#222222
 
