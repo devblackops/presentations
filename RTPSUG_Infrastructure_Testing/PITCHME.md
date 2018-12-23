@@ -127,7 +127,7 @@ Validation of the operation of a system
 - Others? (Let me know)
 @ulend
 
----?color=#222222&code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=pester&title=Pester
+---?color=#222222&code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=powershell&title=Pester
 
 @[1-3](Function to test)
 @[5-12]('Describe' block groups 'n' number of Context or It blocks)
