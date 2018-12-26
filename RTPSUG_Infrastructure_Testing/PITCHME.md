@@ -146,12 +146,12 @@ Validation of the operation of a system
 ---?color=#222222
 
 @snap[north-west]
-### Operation Validation Framework
+#### Operation Validation Framework
 @snapend
 
 @snap[west span-30]
 
-A framework for executing Pester tests contained in PowerShell modules
+@css[text-08](A framework for executing Pester tests contained in PowerShell modules)
 
 ##### Two simple commands:
 @ul[](false)
