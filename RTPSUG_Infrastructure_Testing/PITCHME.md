@@ -127,21 +127,38 @@ Validation of the operation of a system
 - Others? (Let me know)
 @ulend
 
----?color=#222222&code=RTPSUG_Infrastructure_Testing/scripts/pester1.ps1&lang=powershell&title=Pester Example
+---?color=#222222&code=RTPSUG_Infrastructure_Testing/scripts/Get-AnswerToUniverse.ps1&lang=powershell&title=Function to test
 
-@[1-3](Function to test)
-@[5-12]('Describe' block groups 'n' number of Context or It blocks)
-@[6-11]('Context' block groups 'n' number of It blocks)
-@[7-10]('It' block contains your assertion)
-@[9](Performs the assertion using 'Should')
+---?color=#222222&code=RTPSUG_Infrastructure_Testing/scripts/Get-AnswerToUniverse.tests.ps1&lang=powershell&title=Pester test
+
+@[1](Load function to test)
+@[3-10]('Describe' block groups 'n' number of Context or It blocks)
+@[4-9]('Context' block groups 'n' number of It blocks)
+@[5-8]('It' block contains your assertion)
+@[7](Performs the assertion using 'Should')
 
 ---?color=#222222
 
 ### Pester example
 
-![](RTPSUG_Infrastructure_Testing/assets/pester.png)
+![](RTPSUG_Infrastructure_Testing/assets/pester_example.png)
 
 ---?color=#222222
+
+@snap[north-west]
+### Operation Validation Framework<br>A framework for executing Pester tests contained in PowerShell modules
+@snapend
+
+@snap[west span-30]
+@img[](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
+##### Two simple commands
+- Get-OperationValidation
+- Invoke-OperationValidation
+@snapend
+
+@snap[east span-65]
+@img[](RTPSUG_Infrastructure_Testing/assets/ovf_folder_structure.png)
+@snapend
 
 ---?color=#222222
 
