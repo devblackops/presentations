@@ -146,12 +146,15 @@ Validation of the operation of a system
 ---?color=#222222
 
 @snap[north-west]
-### Operation Validation Framework<br>A framework for executing Pester tests contained in PowerShell modules
+### Operation Validation Framework
 @snapend
 
 @snap[west span-30]
-@img[](RTPSUG_Infrastructure_Testing/assets/question_mark.png)
-##### Two simple commands
+
+A framework for executing Pester tests contained in PowerShell modules
+
+##### Two simple commands:
+@ul[](false)
 - Get-OperationValidation
 - Invoke-OperationValidation
 @snapend
